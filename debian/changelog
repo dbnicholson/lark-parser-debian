@@ -1,0 +1,5 @@
+lark-parser (0.7.5-0endless1) unstable; urgency=medium
+
+  * Initial release. (T27614)
+
+ -- Dan Nicholson <nicholson@endlessm.com>  Thu, 19 Sep 2019 16:15:10 -0600
