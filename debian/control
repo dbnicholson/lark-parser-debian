@@ -4,7 +4,7 @@ Homepage: https://github.com/lark-parser/lark
 Section: python
 Priority: optional
 Build-Depends:
- debhelper-compat (= 10),
+ debhelper (>= 10~),
  dh-python,
  python-all,
  python-setuptools,

@@ -1,3 +1,10 @@
+lark-parser (0.7.5-0endless2) unstable; urgency=medium
+
+  * Use debian/compat and with Build-Depends on debhelper to ease
+    backporting.
+
+ -- Dan Nicholson <nicholson@endlessm.com>  Fri, 20 Sep 2019 10:38:08 -0600
+
 lark-parser (0.7.5-0endless1) unstable; urgency=medium
 
   * Initial release. (T27614)
